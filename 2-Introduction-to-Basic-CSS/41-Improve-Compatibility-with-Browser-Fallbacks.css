@@ -1,0 +1,15 @@
+/* I learned why it is important to provide browser fallbacks. Browswers will ignore any properties that it does not recognize or support so it is important to provide fallacks to avoid any potential problems. */
+
+
+<style>
+  :root {
+    --red-color: red;
+  }
+  .red-box {
+    background: red;
+    background: var(--red-color);
+    height: 200px;
+    width:200px;
+  }
+</style>
+<div class="red-box"></div>

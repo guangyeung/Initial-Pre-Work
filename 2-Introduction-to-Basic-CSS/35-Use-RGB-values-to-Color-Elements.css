@@ -1,0 +1,8 @@
+/* I learned about using RGB values to represent colors in CSS. The brightness of each color is specified with a number between 0-255. It has the exact same number of possible values as hex code for each color. */
+
+
+<style>
+  body {
+    background-color: rgb(0, 0, 0);
+  }
+</style>

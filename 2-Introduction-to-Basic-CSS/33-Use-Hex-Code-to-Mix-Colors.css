@@ -1,0 +1,25 @@
+/* I learned more about how hex code is mix to represent colors. The 6 hexadecimal digits represent colors, two each for red, green, and blue. The digit 0 is the lowest hex number representing the absence of color, while the digit F is the highest hex number representing the maximum possible brightness. */
+
+
+<style>
+  .red-text {
+    color: #FF0000;
+  }
+  .green-text {
+    color: #00FF00;
+  }
+  .dodger-blue-text {
+    color: #1E90FF;
+  }
+  .orange-text {
+    color: #FFA500;
+  }
+</style>
+
+<h1 class="red-text">I am red!</h1>
+
+<h1 class="green-text">I am green!</h1>
+
+<h1 class="dodger-blue-text">I am dodger blue!</h1>
+
+<h1 class="orange-text">I am orange!</h1>

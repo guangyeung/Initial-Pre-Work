@@ -1,0 +1,8 @@
+/* I learned that in CSS we can use 6 hexadecimal digits to represent colors. Hexadecimals are base 16 with 0-9 and A-F. */
+
+
+<style>
+  body {
+    background-color: #000000;
+  }
+</style>

@@ -1,4 +1,4 @@
-// In this lesson, I learned about higher order functions such as filter and map. I also practiced writing the arrow function.
+// In this lesson, I learned about higher order functions such as filter and map. I also practiced writing the arrow function. 
 
 const realNumberArray = [4, 5.6, -9.8, 3.14, 42, 6, 8.34, -2];
 const squareList = (arr) => {

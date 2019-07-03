@@ -5,7 +5,7 @@ function freezeObj() {
   const MATH_CONSTANTS = {
     PI: 3.14
   };
-  // change code below this line
+  // change code below this line 
 
   Object.freeze(MATH_CONSTANTS);
 

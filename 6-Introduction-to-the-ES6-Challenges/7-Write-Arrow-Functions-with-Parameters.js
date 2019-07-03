@@ -1,4 +1,4 @@
-// In this lesson, I learned that parameters can be passed into arrow functions.
+// In this lesson, I learned that parameters can be passed into arrow functions. 
 
 const myConcat = (arr1, arr2) => arr1.concat(arr2);
 // test your code

@@ -1,4 +1,4 @@
-// In this lesson, I learned how to use the class keyword to declare a new object.
+// In this lesson, I learned how to use the class keyword to declare a new object. 
 
 function makeClass() {
   "use strict";
